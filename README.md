@@ -5,7 +5,7 @@
 本项目收集了部分电信院的课程资料，包含课后作业、实验代码、实验报告，以及**回忆整理的期末考试考点考题**等等。如果你认为本项目内容对你有帮助，请为我们点个star🌟吧！你们的支持是我们的动力❤️
 
 
-友情链接：- [source](https://github.com/ysyisyourbrother/SYSU_Notebook#readme)
+友情链接：- [ysyisyourbrother/SYSU Notebook](https://github.com/ysyisyourbrother/SYSU_Notebook#readme)
 该链接为计院同学建立的资料仓库，本仓库的建立正是受这位同学启发，并且readme模板、组织形式均来源于该仓库（已获得许可）。非常感谢这位计院同学！
 由于电信院和计院存在一些共同的课程，如果有些课程无法在本仓库找到，不妨去他们的仓库看😉😉喜欢的话也可以为他们点个star🌟哦！
 
