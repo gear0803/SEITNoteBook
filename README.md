@@ -21,6 +21,10 @@
 | [ 北大版高等数学 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E5%8C%97%E5%A4%A7%E7%89%88%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6) |  大一 上下  | 高数备课组 |    |  :white_check_mark:   |  :white_check_mark:       | 
  | [ 统计信号处理 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E7%BB%9F%E8%AE%A1%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86_%E5%BC%A0%E6%97%97) |  大三 下  | 张旗 |    |    |         |        
 
+## 如何获取
+
+github的默认下载是下载整个仓库。如果你只想下载某一个文件夹或是觉得github下载过慢，不妨使用以下链接：
+- [DownGit](http://zhoudaxiaa.gitee.io/downgit/#/home)
 
 ## 联系我
 
