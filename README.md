@@ -17,7 +17,7 @@
 | :----------------------------------------------------------: | :-----: | ------ | :----------: | :---------: | :--------------: | 
 | [数值计算方法](https://github.com/Yinshideguanghui/MMSE_VBLAST_QRD_SQRD) | 大一 下  | 伍沛然 |    |  :white_check_mark:   |         |                        
 | [ 图像处理 ](https://github.com/Yinshideguanghui/Digital_Image_Processing) | 大四 上  | 梁凡 |    |  :white_check_mark:   |         |   
-|    
+    
 
         
 
