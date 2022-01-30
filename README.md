@@ -17,7 +17,7 @@
 | :----------------------------------------------------------: | :-----: | ------ | :----------: | :---------: | :--------------: | 
 | [数值计算方法](https://github.com/Yinshideguanghui/MMSE_VBLAST_QRD_SQRD) | 大一 下  | 伍沛然 |    |  :white_check_mark:   |         |                        
 | [ 图像处理 ](https://github.com/Yinshideguanghui/Digital_Image_Processing) | 大四 上  | 梁凡 |    |  :white_check_mark:   |         |   
-    
+| [ 微波技术与天线实验 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%A4%A9%E7%BA%BF%E5%AE%9E%E9%AA%8C_%E8%92%8B%E9%B8%BF%E9%9B%81) |  不定  | 蒋鸿雁 |    |  :white_check_mark:   |         |       
 
         
 
