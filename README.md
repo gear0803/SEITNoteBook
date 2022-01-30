@@ -6,7 +6,6 @@
 
 
 友情链接：- [ysyisyourbrother/SYSU Notebook](https://github.com/ysyisyourbrother/SYSU_Notebook#readme)  
-  
 该链接为计院同学建立的资料仓库，本仓库的建立正是受这位同学启发，并且readme模板、组织形式均来源于该仓库（已获得许可）。非常感谢这位计院同学！
 由于电信院和计院存在一些共同的课程，如果有些课程无法在本仓库找到，不妨去他们的仓库看😉😉喜欢的话也可以为他们点个star🌟哦！
 
