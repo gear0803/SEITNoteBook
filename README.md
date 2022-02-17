@@ -23,6 +23,17 @@
 | [ 微波技术与天线实验 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%A4%A9%E7%BA%BF%E5%AE%9E%E9%AA%8C_%E8%92%8B%E9%B8%BF%E9%9B%81) |  不定  | 蒋鸿雁 |    |  :white_check_mark:   |         |       | 
 | [ 北大版高等数学 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E5%8C%97%E5%A4%A7%E7%89%88%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6) |  大一 上下  | 高数备课组 |    |  :white_check_mark:   |  :white_check_mark:       | :white_check_mark:   | 
  | [ 统计信号处理 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E7%BB%9F%E8%AE%A1%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86_%E5%BC%A0%E6%97%97) |  大三 下  | 张旗 |    |    |         |  :white_check_mark:         | 
+ | [ 信息论 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99-%E6%88%B4%E5%AE%AA%E5%8D%8E) |    | 戴宪华 |    |    |   :white_check_mark:      |           | 
+ | [ 复变函数 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99-%E6%88%B4%E5%AE%AA%E5%8D%8E) |  大二 上  | 张琳 |    |    |   :white_check_mark:      |           | 
+ | [ 工程数学 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E5%B7%A5%E7%A8%8B%E6%95%B0%E5%AD%A6-%E5%BC%A0%E7%90%B3) |    | 张琳 |    |    |   :white_check_mark:      |           | 
+ | [ 微机原理 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86-%E5%91%A8%E6%9D%B0%E8%8B%B1) |  大三 上  | 周杰英 |    |    |   :white_check_mark:      |  :white_check_mark:          |  
+ | [ 数字信号处理 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86-%E9%A9%AC%E4%BA%89%E9%B8%A3) |    | 马争鸣 |    |    |   :white_check_mark:      |   :white_check_mark:        |  
+ | [ 现代电信交换 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E7%8E%B0%E4%BB%A3%E7%94%B5%E4%BF%A1%E4%BA%A4%E6%8D%A2-%E5%BC%A0%E6%97%97) |    | 张旗 |    |    |   :white_check_mark:      |  :white_check_mark:         |  
+ | [ 电磁场与电磁波 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2-%E6%9D%8E%E5%85%83%E6%96%B0) |    | 李元新 |    |    |   :white_check_mark:      |           | 
+ | [ 线性代数 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0-%E5%BC%A0%E7%90%B3) |    | 张琳 |    |    |   :white_check_mark:      |   :white_check_mark:        | 
+  | [ 计算机网络 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E5%90%B4%E7%AD%A0) |    | 吴筠 |    |    |   :white_check_mark:      |   :white_check_mark:          | 
+  | [ 随机信号处理 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E9%9A%8F%E6%9C%BA%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86-%E6%88%B4%E5%AE%AA%E5%8D%8E/%E8%80%83%E8%AF%95) |    | 戴宪华 |    |    |   :white_check_mark:      |   :white_check_mark:         | 
+
 
 ## 如何获取
 
