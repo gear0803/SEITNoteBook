@@ -17,7 +17,7 @@
 |                             课程                             |  学期   | 老师   |  教材/课件   |      作业/代码       |          试卷        |      其他资料        |   
 | :----------------------------------------------------------: | :-----: | ------ | :----------: | :---------: | :--------------: |  :--------------: | 
 | [数值计算方法](https://github.com/Yinshideguanghui/MMSE_VBLAST_QRD_SQRD) | 大一 下  | 伍沛然 |    |  :white_check_mark:   |         |      |                   
-| [ 图像处理 ](https://github.com/Yinshideguanghui/Digital_Image_Processing) | 大四 上  | 梁凡 |    |  :white_check_mark:   |  :white_check_mark:       |   | 
+| [ 图像处理 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86_%E6%A2%81%E5%87%A1) | 大四 上  | 梁凡 |    |  :white_check_mark:   |  :white_check_mark:       |   | 
 | [ 微波技术与天线实验 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%A4%A9%E7%BA%BF%E5%AE%9E%E9%AA%8C_%E8%92%8B%E9%B8%BF%E9%9B%81) |  不定  | 蒋鸿雁 |    |  :white_check_mark:   |         |       | 
 | [ 北大版高等数学 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E5%8C%97%E5%A4%A7%E7%89%88%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6) |  大一 上下  | 高数备课组 |    |  :white_check_mark:   |  :white_check_mark:       | :white_check_mark:   | 
  | [ 统计信号处理 ](https://github.com/gear0803/SEITNoteBook/tree/main/%E7%BB%9F%E8%AE%A1%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86_%E5%BC%A0%E6%97%97) |  大三 下  | 张旗 |    |    |         |  :white_check_mark:         | 
